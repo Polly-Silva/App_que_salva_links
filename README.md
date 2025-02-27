@@ -1,4 +1,5 @@
-LinkSaver – Seu Hub Inteligente de Links
+***LinkSaver – Seu Hub Inteligente de Links***
+
 O LinkSaver é um aplicativo sofisticado e intuitivo para armazenar, organizar e acessar rapidamente todos os seus links favoritos, seja de vídeos, artigos, blogs, redes sociais ou qualquer outro conteúdo online.
 
 ✨ Principais Funcionalidades
